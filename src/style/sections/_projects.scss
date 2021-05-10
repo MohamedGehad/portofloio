@@ -76,3 +76,32 @@
     }
   }
 }
+.dev-icons
+{
+    padding-left: 0;
+    list-style: none inherit;
+    font-size: 6rem !important;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+
+}
+.software-skill-inline
+{
+  display: inline-block;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  
+}
+.software-skill-inline>i
+{
+  color: #868e96;
+
+  &:hover{
+    color: #02aab0;
+  }
+}
+
+.font-weight{
+  font-weight: 400;
+}
